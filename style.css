@@ -1,0 +1,74 @@
+.font1{font-family: 'Bangers', cursive;}
+.font2{font-family: 'Chewy', cursive;}
+.font3{font-family: 'Coda Caption', sans-serif;}
+.font4{font-family: 'Cutive Mono', monospace;}
+.font5{font-family: 'Ewert', cursive;}
+.font6{font-family: 'Freckle Face', cursive;}
+.font7{font-family: 'Fredoka One', cursive;}
+.font8{font-family: 'Frijole', cursive;}
+.font9{font-family: 'Hachi Maru Pop', cursive;}
+.font10{font-family: 'Henny Penny', cursive;}
+.font11{font-family: 'Indie Flower', cursive;}
+.font12{font-family: 'Knewave', cursive;}
+.font13{font-family: 'Nosifer', cursive;}
+.font14{font-family: 'Oi', cursive;}
+.font15{font-family: 'Pacifico', cursive;}
+.font16{font-family: 'Press Start 2P', cursive;}
+.font17{font-family: 'Sirin Stencil', cursive;}
+
+
+.wall1{
+    background-image: url("./wall/1.jpg"); /* The image used */
+     /* Center the image */
+    /* Do not repeat the image */
+    background-size: cover;
+}
+
+.wall2{
+    background-image: url("./wall/2.jpg"); /* The image used */
+     /* Center the image */
+    /* Do not repeat the image */
+    background-size: cover;
+}
+.wall3{
+    background-image: url("./wall/3.jpg"); /* The image used */
+     /* Center the image */
+    /* Do not repeat the image */
+    background-size: cover;
+}
+.wall4{
+    background-image: url("./wall/4.jpg"); /* The image used */
+     /* Center the image */
+    /* Do not repeat the image */
+    background-size: cover;
+}
+.wall5{
+    background-image: url("./wall/5.jpg"); /* The image used */
+     /* Center the image */
+    /* Do not repeat the image */
+    background-size: cover;
+}
+.wall6{
+    background-image: url("./wall/6.jpg"); /* The image used */
+     /* Center the image */
+    /* Do not repeat the image */
+    background-size: cover;
+}
+.wall7{
+    background-image: url("./wall/7.jpg"); /* The image used */
+     /* Center the image */
+    /* Do not repeat the image */
+    background-size: cover;
+}
+.wall8{
+    background-image: url("./wall/8.jpg"); /* The image used */
+     /* Center the image */
+    /* Do not repeat the image */
+    background-size: cover;
+}
+.wall9{
+    background-image: url("./wall/9.jpg"); /* The image used */
+     /* Center the image */
+    /* Do not repeat the image */
+    background-size: cover;
+}
